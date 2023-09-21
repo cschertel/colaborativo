@@ -1,0 +1,13 @@
+p,
+h1 {
+    font-family: 'Red Hat Display', sans-serif;
+    color: #ffffff;
+    letter-spacing: 0.8px;
+}
+.card-container {
+    width: 300px;
+    margin: 50px auto;
+    padding: 10px 2%;
+    background-color: #0a2ff1;
+    border-radius: 25px;
+}
