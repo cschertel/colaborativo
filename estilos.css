@@ -1,4 +1,4 @@
-p,
+
 h1 {
     font-family: 'Red Hat Display', sans-serif;
     color: #ffffff;
@@ -11,3 +11,12 @@ h1 {
     background-color: #0a2ff1;
     border-radius: 25px;
 }
+
+footer {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    background-color: rgb(41, 63, 121);
+    color: #d8dae2;
+}
+
